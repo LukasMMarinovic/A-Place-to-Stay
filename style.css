@@ -1,0 +1,41 @@
+
+body 
+{ 
+ background-color: #616161;
+}
+.header
+{
+
+}
+
+h1.mainPanel
+{
+    color: #FF958C;
+    font-weight: 10px;
+}
+
+.mainPanel
+{
+    font-family: 'PT Sans', sans-serif;
+    color: #ffffff;
+    text-align: center;
+
+    border: 10px solid #424242;
+    background-color: #424242;
+    border-radius: 10px;
+    
+    width: 600px;
+    margin: 200px auto;
+    
+}
+
+.footer
+{
+
+}
+
+.btn-custom
+{
+    background-color: #FF958C;
+    font-family: 'PT Sans', sans-serif;
+}
